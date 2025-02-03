@@ -3,7 +3,7 @@
 **Última Atualização**: 03/02/2025 
 
 ## Contexto  
-Este projeto visa apoiar a **gestão estratégica** da Bernoulli Educação, identificando oportunidades para:  
+Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, identificando oportunidades para:  
 - Reduzir custos operacionais sem comprometer a qualidade do ensino.  
 - Aumentar a receita por meio de campanhas de marketing direcionadas.  
 - Melhorar a alocação de recursos entre cursos.  
@@ -30,7 +30,7 @@ Este projeto visa apoiar a **gestão estratégica** da Bernoulli Educação, ide
 - **Testar modelos de precificação dinâmica** para cursos com alta demanda.
 
 - ## 3. Limitações  
-- Dados fictícios: Validar análises com dados reais da Bernoulli.  
+- Dados fictícios: Validar análises com dados reais do Bernoulli.  
 
 - ## 4. Próximos Passos  
 1. Desenvolver um **dashboard no Power BI** com KPIs operacionais.  
