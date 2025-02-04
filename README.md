@@ -14,7 +14,7 @@ Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, ide
 - Investimento em marketing.  
 - Taxa de evasão.
 
-## 6.1 Insights Estratégicos  
+## 1. Insights Estratégicos  
 1. **Redução de Custos no Ensino Médio**:  
    - **Ação**: Otimizar uso de espaços físicos via análise de ocupação de salas.  
    - **Meta**: Reduzir custo por aluno de 2.500 para 2.000 (-20%) em 6 meses.  
@@ -30,13 +30,13 @@ Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, ide
    - **Condição**: Validar demanda via lista de espera (atualmente com 200 alunos).  
    - **Meta**: Atingir 90% de ocupação em 4 meses.  
 
-## 6.2. Aplicação na Bernoulli  
+## 2. Aplicação na Bernoulli  
 1. **Integração de dados operacionais**:  
    - Conectar métricas de custos, matrículas e evasão ao **Sistema de Ensino Bernoulli** via Power BI, para a equipe financeira.  
 2. **Precificação dinâmica**:  
    - Testar ajustes de preços para o **Pré-Vestibular** com base em demanda sazonal e análise de concorrência, usando modelos preditivos.  
 
-## 6.3 Limitações
+## 3 Limitações
 1. **Dados fictícios**: Resultados precisam ser validados com dados reais do Bernoulli.  
 2. **Variáveis ausentes**: Dados de satisfação de alunos e custos detalhados por disciplina.      
 
