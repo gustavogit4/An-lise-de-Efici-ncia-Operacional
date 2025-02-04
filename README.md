@@ -1,6 +1,6 @@
 # Análise de Eficiência Operacional  
 **Autor**: Gustavo de Paula Silva  
-**Última Atualização**: 03/02/2025 
+**Última Atualização**: 04/02/2025 
 
 ## Contexto  
 Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, identificando oportunidades para:  
@@ -30,7 +30,7 @@ Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, ide
    - **Condição**: Validar demanda via lista de espera (atualmente com 200 alunos).  
    - **Meta**: Atingir 90% de ocupação em 4 meses.  
 
-## 2. Aplicação na Bernoulli  
+## 2. Aplicação no Bernoulli  
 1. **Integração de dados operacionais**:  
    - Conectar métricas de custos, matrículas e evasão ao **Sistema de Ensino Bernoulli** via Power BI, para a equipe financeira.  
 2. **Precificação dinâmica**:  
