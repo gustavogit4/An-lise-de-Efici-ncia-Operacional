@@ -3,7 +3,9 @@
 **Última Atualização**: 04/02/2025 
 
 ## Contexto  
+
 **Processo seletivo para Analista de Dados do Grupo Bernoulli Educação**
+
 Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, identificando oportunidades para:  
 - Reduzir custos operacionais sem comprometer a qualidade do ensino.  
 - Aumentar a receita por meio de campanhas de marketing direcionadas.  
