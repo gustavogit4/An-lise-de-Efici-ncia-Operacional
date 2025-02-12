@@ -1,11 +1,8 @@
 # Análise de Eficiência Operacional  
 **Autor**: Gustavo de Paula Silva  
-**Última Atualização**: 04/02/2025 
+**Última Atualização**: 12/02/2025
 
 ## Contexto  
-
-**Processo seletivo para Analista de Dados do Grupo Bernoulli Educação**
-
 Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, identificando oportunidades para:  
 - Reduzir custos operacionais sem comprometer a qualidade do ensino.  
 - Aumentar a receita por meio de campanhas de marketing direcionadas.  
@@ -15,32 +12,33 @@ Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, ide
 - Matrículas por curso.  
 - Custos operacionais.  
 - Investimento em marketing.  
-- Taxa de evasão.
+- Taxa de evasão.   
 
-## 1. Insights Estratégicos  
-1. **Redução de Custos no Ensino Médio**:  
-   - **Ação**: Otimizar uso de espaços físicos via análise de ocupação de salas.  
-   - **Meta**: Reduzir custo por aluno de 2.500 para 2.000 (-20%) em 6 meses.  
-   - **Ferramenta**: Dashboard de ocupação em Power BI.  
+## 1.1 Insights Estratégicos
+1. **Ensino Médio**:  
+   - **Ação**: Otimizar uso de espaços físicos, revisar estratégias de marketing e precificação.  
+   - **Meta**: Reduzir custo por aluno em 20%, aumentar ROI do marketing e manter lucro.  
+   - **Ferramenta**: Dashboard de ocupação em Power BI, análise de dados de marketing.
 
-2. **Otimização de Marketing no Pré-Vestibular**:  
-   - **Ação**: Lançar programa de mentoria com ex-alunos para reduzir evasão em 10%.  
-   - **Meta**: Aumentar ROI de 3.5x para 4.0x no próximo ano.  
-   - **Métrica**: Pesquisa de satisfação pós-curso.  
+2. **Pré-Vestibular**:  
+   - **Ação**: Lançar programa de mentoria, otimizar estratégias de marketing..  
+   - **Meta**: Reduzir evasão em 10%, aumentar ROI do marketing.  
+   - **Métrica**: Pesquisa de satisfação pós-curso, ROI do marketing.  
 
-3. **Expansão do Ensino Infantil**:  
-   - **Ação**: Ampliar vagas em 30% usando recursos realocados do Ensino Médio.  
-   - **Condição**: Validar demanda via lista de espera (atualmente com 200 alunos).  
-   - **Meta**: Atingir 90% de ocupação em 4 meses.  
+3. **Ensino Infantil**:  
+   - **Ação**: Ampliar vagas com cautela, otimizar estratégias de marketing, monitorar custos.  
+   - **Meta**: Atingir ocupação ideal, aumentar ROI do marketing, controlar custos..  
+   - **Condições**: Validar demanda via lista de espera, garantir a qualidade do ensino.
 
-## 2. Aplicação no Bernoulli  
+## 2.1 Aplicação no Bernoulli  
 1. **Integração de dados operacionais**:  
-   - Conectar métricas de custos, matrículas e evasão ao **Sistema de Ensino Bernoulli** via Power BI, para a equipe financeira.  
+   - Conectar métricas de custos, matrículas e evasão ao **Sistema de Ensino Bernoulli** via Power BI para a equipe financeira.  
 2. **Precificação dinâmica**:  
    - Testar ajustes de preços para o **Pré-Vestibular** com base em demanda sazonal e análise de concorrência, usando modelos preditivos.  
 
-## 3 Limitações
+## 2.2 Limitações
 1. **Dados fictícios**: Resultados precisam ser validados com dados reais do Bernoulli.  
-2. **Variáveis ausentes**: Dados de satisfação de alunos e custos detalhados por disciplina.      
+2. **Variáveis ausentes**: Dados de satisfação de alunos e custos detalhados por disciplina.
+3. **Modelo Preditivo**: Modelo precisa ser aprimorado com mais dados e variáveis para ter maior poder preditivo e confiabilidade.      
 
 **Repositório do Projeto**: [GitHub](https://github.com/gustavogit4/An-lise-de-Efici-ncia-Operacional)
