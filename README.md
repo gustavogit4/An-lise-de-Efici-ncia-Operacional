@@ -1,6 +1,6 @@
 # Análise de Eficiência Operacional  
 **Autor**: Gustavo de Paula Silva  
-**Última Atualização**: 12/02/2025
+**Última Atualização**: 13/02/2025
 
 ## Contexto  
 Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, identificando oportunidades para:  
@@ -39,6 +39,6 @@ Este projeto visa apoiar a **gestão estratégica** do Bernoulli Educação, ide
 ## 2.2 Limitações
 1. **Dados fictícios**: Resultados precisam ser validados com dados reais do Bernoulli.  
 2. **Variáveis ausentes**: Dados de satisfação de alunos e custos detalhados por disciplina.
-3. **Modelo Preditivo**: Modelo precisa ser aprimorado com mais dados e variáveis para ter maior poder preditivo e confiabilidade.      
+3. **Modelo Preditivo**: Modelo precisa ser treinado e aprimorado com mais dados e variáveis para ter maior poder preditivo e confiabilidade.      
 
 **Repositório do Projeto**: [GitHub](https://github.com/gustavogit4/An-lise-de-Efici-ncia-Operacional)
